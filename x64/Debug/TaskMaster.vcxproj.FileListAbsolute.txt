@@ -1,0 +1,12 @@
+C:\Users\shevelev.rv\Desktop\TaskMaster\x64\Debug\TaskMaster.vcxproj.AssemblyReference.cache
+C:\Users\shevelev.rv\Desktop\TaskMaster\x64\Debug\TaskMaster.exe
+C:\Users\shevelev.rv\Desktop\TaskMaster\x64\Debug\TaskMaster.MyForm.resources
+C:\Users\shevelev.rv\Desktop\TaskMaster\x64\Debug\TaskMaster.vcxproj.GenerateResource.cache
+C:\Users\shevelev.rv\Desktop\code\TaskMaster\x64\Debug\TaskMaster.vcxproj.AssemblyReference.cache
+C:\Users\shevelev.rv\Desktop\code\TaskMaster\x64\Debug\TaskMaster.MyForm.resources
+C:\Users\shevelev.rv\Desktop\code\TaskMaster\x64\Debug\TaskMaster.vcxproj.GenerateResource.cache
+C:\Users\shevelev.rv\Desktop\code\TaskMaster\x64\Debug\TaskMaster.exe
+C:\Users\shevelev.rv\Desktop\FEFU\СиТП\code\TaskMaster\x64\Debug\TaskMaster.vcxproj.AssemblyReference.cache
+C:\Users\shevelev.rv\Desktop\FEFU\СиТП\code\TaskMaster\x64\Debug\TaskMaster.MyForm.resources
+C:\Users\shevelev.rv\Desktop\FEFU\СиТП\code\TaskMaster\x64\Debug\TaskMaster.vcxproj.GenerateResource.cache
+C:\Users\shevelev.rv\Desktop\FEFU\СиТП\code\TaskMaster\x64\Debug\TaskMaster.exe
