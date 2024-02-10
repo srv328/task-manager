@@ -146,4 +146,4 @@ The `Task` header file (`Task.h`) defines a class representing individual tasks 
 *   Creates instances of tasks with unique IDs and attributes such as description, deadline, priority, and completion status.
 *   Manages and modifies task attributes such as description, deadline, priority, and completion status.
 
-This class serves as a blueprint for individual tasks within the task management system. It facilitates the manipulation and management of task-related data and attributes, enabling operations related to task modification, status tracking, and access to task details.
+this class serves as a blueprint for individual tasks within the task management system. It facilitates the manipulation and management of task-related data and attributes, enabling operations related to task modification, status tracking, and access to task details.
